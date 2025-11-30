@@ -4,7 +4,6 @@ An interactive AI-powered roast battle application where you compete against an 
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/streamlit-1.28+-red.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Groq](https://img.shields.io/badge/Groq-AI-orange.svg)
 
 ## 🎯 Features
